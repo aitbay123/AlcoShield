@@ -5,7 +5,7 @@
 
 <p align="center">
 <video controls width="600">
-  <source src="https://www.youtube.com/embed/TNBd8ddL4To" type="video/mp4">
-  Ваш браузер не поддерживает встроенное видео. <a href="https://www.youtube.com/embed/TNBd8ddL4To">Скачать видео</a>.
+  <source src="https://youtube.com/shorts/TNBd8ddL4To?si=WaUJabnV5JxL9498" type="video/mp4">
+  Ваш браузер не поддерживает встроенное видео. <a href="https://youtube.com/shorts/TNBd8ddL4To?si=WaUJabnV5JxL9498v">Скачать видео</a>.
 </video>
 
