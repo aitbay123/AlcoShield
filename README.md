@@ -4,8 +4,9 @@
 
 
 <p align="center">
-<video controls width="600">
-  <source src="https://youtube.com/shorts/TNBd8ddL4To?si=WaUJabnV5JxL9498" type="video/mp4">
-  Ваш браузер не поддерживает встроенное видео. <a href="https://youtube.com/shorts/TNBd8ddL4To?si=WaUJabnV5JxL9498v">Скачать видео</a>.
-</video>
+<<iframe width="560" height="315" src="https://www.youtube.com/embed/TNBd8ddL4To" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen></iframe>
+
 
